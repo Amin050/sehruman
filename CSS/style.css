@@ -14,7 +14,7 @@ html, body {
 body {
     background: black;
     color: white;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Oswald', sans-serif;
 }
 
 .menu {
@@ -149,6 +149,11 @@ ul {
 
 .titel {
     color: #e2252c;
+    font-weight: bold;
+}
+
+p {
+    letter-spacing: 1px;
 }
 
 .tekst-blok {
